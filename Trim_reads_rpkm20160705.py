@@ -4,7 +4,7 @@ Spyder Editor
 用于对前面生成的rpkm结果卡值
 可以针对rpkm，reads数量的卡值
 This is a temporary script file.
-
+11111111111111111111111111111
 
 """
 
